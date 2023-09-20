@@ -1,3 +1,3 @@
 import streamlit
 
-streampli.title("streamlit is working!!")
+streamlit.title("streamlit is working!!")
